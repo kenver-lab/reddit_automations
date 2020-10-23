@@ -16,3 +16,5 @@ while True:
 
   if connected_ip == IP_DEVICE:
       subprocess.Popen(["say", "Linnea just connected to the network"])
+Magru
+Follow 
